@@ -1,8 +1,11 @@
 # up221-mia
 
 Mia Yancich 
+
 She/her/hers
+
 1st Year MURP
+
 Climate, Environment, and Society concentration 
 
 I majored in Data Analytics in my undergrad so I've worked quite a bit with Python... hoping this course is a nice segue into learning about GIS!
